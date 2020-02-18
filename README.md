@@ -1,3 +1,6 @@
+This is a reward-points system building with React Hooks and React tables
+
+
 How to use this project?
 
 
