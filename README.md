@@ -1,7 +1,13 @@
+How to use this project?
 
 
+### `git clone https://github.com/JonnyyJ/React-reward.git`
 
-In the project directory, you can run:
+After git clone the project, you can 
+
+### `cd React-reward`
+
+After entering the repository
 
 ### `npm install`
 Install the dependencies
